@@ -1,0 +1,1 @@
+<?php echo "<h2>Settings Panel</h2><p>Custom OS tweaks and cloud sync settings will appear here.</p>"; ?>

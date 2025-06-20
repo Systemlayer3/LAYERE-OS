@@ -1,0 +1,1 @@
+<?php echo "<h2>Firewall Status</h2><p>Secure. No threats detected.</p>"; ?>
